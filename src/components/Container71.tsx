@@ -214,7 +214,7 @@ const Container71: FunctionComponent = () => {
                       <div className="absolute top-[0px] left-[0px] w-[10.2px] h-[8.2px] [transform:_rotate(-5deg)] [transform-origin:0_0]">
                         <div className="absolute top-[0px] left-[0px] rounded-[0.66px] box-border w-[10.2px] h-[8.2px] [transform:_rotate(-5deg)] [transform-origin:0_0] border-[0.3px] border-solid border-white" />
                         <div className="absolute top-[1.1px] left-[2.7px] tracking-[-0.05px] leading-[5.91px] font-semibold [transform:_rotate(-5deg)] [transform-origin:0_0]">
-                          5
+                          500
                         </div>
                       </div>
                     </div>
